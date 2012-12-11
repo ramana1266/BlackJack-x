@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BlackJack!</string>
+    <string name="app_name">BlackJack</string>
+    <string name="NOME_VERSAO">BlackJack</string>
+    <string name="CODIGO_VERSAO">10000</string>
+    <string name="titBlack">Black Jack:</string>
+    <string name="lblOK">OK</string>
+    <string name="txtSim">Sim</string>
+    <string name="txtNao">Não</string>
+    <string name="msg_help_1">Black Jack </string>
+    <string name="msg_help_2">Instruções \n
+    						 O objetivo do jogo BlackJack, também conhecido como "21",  
+    						 é fazer um total de pontos próximo ou igual a 21, vencendo assim, seu adversário.  
+    						 No caso do nosso jogo, é a "banca".\n
+    						 O jogo termina quando um dos jogadores completa, ou ultrapassa 21 pontos. \n </string>
+    <string name="msg_hitme">1 - Durante um jogo, clique no botão "Hit Me" para que lhe seja dada uma nova carta.</string>
+    <string name="msg_stand">2 - Se achar que está bom,  clique no botão "Stand" para finalizar o jogo. A banca poderá ou 
+    						 não pedir mais cartas. </string>
+	<string name="msg_novo_jogo">3 - Clique no botão "Novo Jogo" para que sejam zerados os pontos e tudo comece novamente. 
+    						  No início, o jogo dará uma carta para você e outra para a banca.</string>
+    <string name="msg_pontos_cartas1">Pontos das cartas</string>
+    <string name="msg_pontos_cartas2_10">- As cartas de 2 a 10 valem o seu próprio número de pontos.</string>	
+    <string name="msg_pontos_cartas_ases">- Os Ases valem 1 ponto.</string>	
+    <string name="msg_pontos_cartas_coringas">- As cartas de figuras e os coringas, valem 10 pontos.</string>							 
+    
+    <string name="mnu_ajuda">Instruções</string>
+    <string name="mnu_titulo_menu">Selecione uma ação</string>
+    <string name="lblCartas_Banca">Cartas da Banca</string>
+    <string name="lblSuas_Cartas">Suas Cartas</string>
+    <string name="lblTotal_Pontos">Ponto (s)</string>
+    <string name="msg_jogo_acabou">O jogo acabou!</string>
+    <string name="msg_jogo_antes_desistir">Você deve jogar antes de desistir\n. Clique em \"Hit Me\"!</string>
+    <string name="msg_naotem_cartas">Desculpe,\n mas não pode pedir mais cartas!</string>
+    <string name="msg_vc_venceu">Você venceu!</string>
+    <string name="msg_vc_perdeu">Desculpe,\n você perdeu!</string>
+    <string name="msg_banca_ganhou">A banca ganhou!</string>
+    <string name="msg_banca_perdeu">A banca perdeu.</string>
+    <string name="msg_banca_venceu">A banca venceu!</string>
+    <string name="msg_banca_ganha_21">A banca ganha com </string>
+    <string name="msg_21_pontos">pontos</string>
+</resources>
